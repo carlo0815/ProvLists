@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:0,DKULTUR
+udp://@232.2.0.1:8208
+#EXTINF:0,DLF
+udp://@232.2.0.2:8208
+#EXTINF:0,DRadio Wissen
+udp://@232.2.0.3:8208
+#EXTINF:0,NDS Blue
+udp://@232.2.0.4:8208
+#EXTINF:0,B5 Plus
+udp://@232.2.0.5:8208
+#EXTINF:0,MDR INFO
+udp://@232.2.0.6:8208
+#EXTINF:0,WDR 3
+udp://@232.2.0.10:8208
+#EXTINF:0,WDR 5
+udp://@232.2.0.11:8208
+#EXTINF:0,Bremen Eins
+udp://@232.2.0.12:8208
+#EXTINF:0,Nordwestradio
+udp://@232.2.0.13:8208
+#EXTINF:0,Bremen Vier
+udp://@232.2.0.14:8208
+#EXTINF:0,1LIVE
+udp://@232.2.0.15:8208
+#EXTINF:0,WDR 2
+udp://@232.2.0.16:8208
+#EXTINF:0,WDR 4
+udp://@232.2.0.17:8208
+#EXTINF:0,WDR Funkhaus Europa
+udp://@232.2.0.18:8208
+#EXTINF:0,1LIVE diggi
+udp://@232.2.0.19:8208
+#EXTINF:0,KIRAKA
+udp://@232.2.0.20:8208
+#EXTINF:0,WDR Event
+udp://@232.2.0.21:8208
+#EXTINF:0,Bayern 1
+udp://@232.2.0.22:8208
+#EXTINF:0,Bayern 2 Radio
+udp://@232.2.0.23:8208
+#EXTINF:0,Bayern 3
+udp://@232.2.0.24:8208
+#EXTINF:0,Bayern 4 Klassik
+udp://@232.2.0.25:8208
+#EXTINF:0,B5 aktuell
+udp://@232.2.0.26:8208
+#EXTINF:0,Bayern mobil
+udp://@232.2.0.27:8208
+#EXTINF:0,DAS MODUL
+udp://@232.2.0.28:8208
+#EXTINF:0,hr1
+udp://@232.2.0.30:8208
+#EXTINF:0,hr2
+udp://@232.2.0.31:8208
+#EXTINF:0,hr3
+udp://@232.2.0.32:8208
+#EXTINF:0,hr4
+udp://@232.2.0.33:8208
+#EXTINF:0,YOU FM
+udp://@232.2.0.34:8208
+#EXTINF:0,hr-info
+udp://@232.2.0.35:8208
+#EXTINF:0,MDR1 Sachsen
+udp://@232.2.0.37:8208
+#EXTINF:0,MDR1 Sachsen-Anhalt
+udp://@232.2.0.38:8208
+#EXTINF:0,MDR1 Thüringen
+udp://@232.2.0.39:8208
+#EXTINF:0,MDR Figaro
+udp://@232.2.0.40:8208
+#EXTINF:0,MDR Jump
+udp://@232.2.0.41:8208
+#EXTINF:0,SPUTNIK
+udp://@232.2.0.42:8208
+#EXTINF:0,NDR 1 Welle Nord
+udp://@232.2.0.43:8208
+#EXTINF:0,NDR 1 Radio MV
+udp://@232.2.0.44:8208
+#EXTINF:0,NDR 1 Niedersachsen
+udp://@232.2.0.45:8208
+#EXTINF:0,NDR 2
+udp://@232.2.0.46:8208
+#EXTINF:0,NDR Kultur
+udp://@232.2.0.47:8208
+#EXTINF:0,NDR Info
+udp://@232.2.0.48:8208
+#EXTINF:0,N-JOY
+udp://@232.2.0.49:8208
+#EXTINF:0,NDR 903
+udp://@232.2.0.50:8208
+#EXTINF:0,NDR Info Spezial
+udp://@232.2.0.51:8208
+#EXTINF:0,InfoRadio
+udp://@232.2.0.52:8208
+#EXTINF:0,kulturradio
+udp://@232.2.0.53:8208
+#EXTINF:0,Antenne Brandenburg
+udp://@232.2.0.54:8208
+#EXTINF:0,radioBERLIN 888
+udp://@232.2.0.55:8208
+#EXTINF:0,radioeins
+udp://@232.2.0.56:8208
+#EXTINF:0,Fritz
+udp://@232.2.0.57:8208
+#EXTINF:0,MDR Klassik
+udp://@232.2.0.58:8208
+#EXTINF:0,SR1
+udp://@232.2.0.59:8208
+#EXTINF:0,kulturradio
+udp://@232.2.0.60:8208
+#EXTINF:0,SR3
+udp://@232.2.0.61:8208
+#EXTINF:0,SWR1 BW
+udp://@232.2.0.62:8208
+#EXTINF:0,SWR1 RP
+udp://@232.2.0.63:8208
+#EXTINF:0,SWR2
+udp://@232.2.0.64:8208
+#EXTINF:0,SWR3
+udp://@232.2.0.65:8208
+#EXTINF:0,SWR4 BW
+udp://@232.2.0.66:8208
+#EXTINF:0,SWR4 RP
+udp://@232.2.0.67:8208
+#EXTINF:0,DASDING
+udp://@232.2.0.68:8208
+#EXTINF:0,cont.ra
+udp://@232.2.0.69:8208

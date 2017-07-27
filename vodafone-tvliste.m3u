@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:0,(1) Das Erste HD
+rtp://@232.0.1.65:10000
+#EXTINF:0,(2) ZDF HD
+rtp://@232.0.1.66:10000
+#EXTINF:0,(3) ARTE HD
+rtp://@232.0.1.67:10000
+#EXTINF:0,(4) Phoenix HD
+rtp://@232.0.1.68:10000
+#EXTINF:0,(5) KiKA HD
+rtp://@232.0.1.76:10000
+#EXTINF:0,(6) 3sat HD
+rtp://@232.0.1.75:10000
+#EXTINF:0,(7) ZDF neo HD
+rtp://@232.0.1.73:10000
+#EXTINF:0,(8) ZDF Infokanal HD
+rtp://@232.0.1.77:10000
+#EXTINF:0,(9) Bayern Süd HD
+rtp://@232.0.1.71:10000
+#EXTINF:0,(10) NDR HD
+rtp://@232.0.1.72:10000
+#EXTINF:0,(11) SWR BW HD
+rtp://@232.0.1.70:10000
+#EXTINF:0,(12) WDR HD
+rtp://@232.0.1.78:10000
+#EXTINF:0,(20) Anixe HD
+rtp://@232.0.1.83:10000
+#EXTINF:0,(21) Pro 7
+rtp://@232.0.2.189:10000
+#EXTINF:0,(22) RTL
+rtp://@232.0.2.187:10000
+#EXTINF:0,(23) RTL2
+rtp://@232.0.2.191:10000
+#EXTINF:0,(24) SAT1
+rtp://@232.0.2.188:10000
+#EXTINF:0,(25) SAT1 Gold
+rtp://@232.0.2.199:10000
+#EXTINF:0,(26) Kabel1
+rtp://@232.0.2.192:10000
+#EXTINF:0,(27) Vox
+rtp://@232.0.2.190:10000
+#EXTINF:0,(28) Super RTL
+rtp://@232.0.2.193:10000
+#EXTINF:0,(29) RTLNITRO
+rtp://@232.0.2.198:10000
+#EXTINF:0,(30) Tele 5
+rtp://@232.0.1.26:10000
+#EXTINF:0,(31) Nickelodeon
+rtp://@232.0.1.30:10300
+#EXTINF:0,(32) Sixx
+rtp://@232.0.2.197:10000
+#EXTINF:0,(33) Eurosport
+rtp://@232.0.1.32:10000
+#EXTINF:0,(34) DMAX
+rtp://@232.0.1.34:10340
+#EXTINF:0,(35) Euronews
+rtp://@232.0.1.50:10500
+#EXTINF:0,(36) Sport 1
+rtp://@232.0.1.28:10000
+#EXTINF:0,(37) Bloomberg TV
+rtp://@232.0.1.46:10460
+#EXTINF:0,(38) CNN
+rtp://@232.0.1.47:10470
+#EXTINF:0,(39) Bibel TV
+rtp://@232.0.1.45:10450
+#EXTINF:0,(40) BBC World
+rtp://@232.0.1.48:10480
+#EXTINF:0,(41) QVC
+rtp://@232.0.1.33:10330
+#EXTINF:0,(42) N24
+rtp://@232.0.2.194:10000
+#EXTINF:0,(43) n-tv
+rtp://@232.0.2.195:10000
+#EXTINF:0,(44) Viva
+rtp://@232.0.1.27:10270
+#EXTINF:0,(50) Das Erste
+rtp://@232.0.1.1:10010
+#EXTINF:0,(51) ZDF
+rtp://@232.0.1.2:10020
+#EXTINF:0,(52) arte
+rtp://@232.0.1.14:10140
+#EXTINF:0,(53) Phoenix
+rtp://@232.0.1.25:10250
+#EXTINF:0,(54) 3sat
+rtp://@232.0.1.13:10130
+#EXTINF:0,(55) KI.KA
+rtp://@232.0.1.12:10120
+#EXTINF:0,(56) tagesschau24
+rtp://@232.0.1.39:10390
+#EXTINF:0,(57) ARD-alpha
+rtp://@232.0.1.37:10370
+#EXTINF:0,(58) ZDF Infokanal
+rtp://@232.0.1.41:10410
+#EXTINF:0,(59) ZDF neo
+rtp://@232.0.1.42:10420
+#EXTINF:0,(60) BR Süd
+rtp://@232.0.1.18:10180
+#EXTINF:0,(61) ARD-alpha
+rtp://@232.0.1.37:10370
+#EXTINF:0,(62) hr-Fernsehen
+rtp://@232.0.1.21:10210
+#EXTINF:0,(63) MDR Sachsen
+rtp://@232.0.1.17:10170
+#EXTINF:0,(64) NDR Hamburg
+rtp://@232.0.1.15:10150
+#EXTINF:0,(65) NDR Schleswig-Holstein
+rtp://@232.0.1.5:10000
+#EXTINF:0,(66) Radio Bremen TV
+rtp://@232.0.1.44:10440
+#EXTINF:0,(67) rbb Berlin
+rtp://@232.0.1.22:10220
+#EXTINF:0,(68) rbb Brandenburg
+rtp://@232.0.1.24:10240
+#EXTINF:0,(69) SR Fernsehen
+rtp://@232.0.1.23:10230
+#EXTINF:0,(70) SWR Fernsehen BW
+rtp://@232.0.1.19:10190
+#EXTINF:0,(71) SWR Fernsehen RP
+rtp://@232.0.1.20:10200
+#EXTINF:0,(72) WDR
+rtp://@232.0.1.16:10160
