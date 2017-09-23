@@ -1,0 +1,222 @@
+#EXTM3U
+## A1TV_Plus, Stand: 2017-04-07
+## VLC, Kodi
+
+#EXTINF:1,ORF eins
+rtp://@239.2.16.1:8208
+#EXTINF:2,ORF 2-W
+rtp://@239.2.16.2:8208
+#EXTINF:3,ATV
+rtp://@239.2.16.3:8208
+#EXTINF:4,PULS 4
+rtp://@239.2.16.4:8208
+#EXTINF:5,Servus TV
+rtp://@239.2.16.11:8208
+#EXTINF:6,SAT.1 Austria
+rtp://@239.2.16.5:8208
+#EXTINF:7,ProSieben Austria
+rtp://@239.2.16.7:8208
+#EXTINF:8,kabel eins Austria
+rtp://@239.2.16.13:8208
+#EXTINF:9,RTL Austria
+rtp://@239.2.16.6:8208
+#EXTINF:10,A1 TV Plus-Info
+udp://@239.2.16.10:8208
+#EXTINF:11,VOX Austria
+rtp://@239.2.16.8:8208
+#EXTINF:12,sixx Austria
+rtp://@239.2.16.9:8208
+#EXTINF:13,RTL II Austria
+rtp://@239.2.16.12:8208
+#EXTINF:14,ATV//
+rtp://@239.2.16.91:8208
+#EXTINF:15,SAT.1-GOLD
+rtp://@239.2.16.27:8208
+#EXTINF:16,ProSieben-MAXX
+rtp://@239.2.16.28:8208
+#EXTINF:17,RTL Nitro
+rtp://@239.2.16.33:8208
+#EXTINF:18,Das Erste
+rtp://@239.2.16.16:8208
+#EXTINF:19,ZDF
+rtp://@239.2.16.17:8208
+#EXTINF:20,kabel eins Doku Austria
+rtp://@239.2.16.19:8208
+#EXTINF:22,ORF III
+rtp://@239.2.16.29:8208
+#EXTINF:23,3sat
+rtp://@239.2.16.21:8208
+#EXTINF:24,arte
+rtp://@239.2.16.22:8208
+#EXTINF:25,DMAX Austria
+rtp://@239.2.16.30:8208
+#EXTINF:26,Sport1
+rtp://@239.2.16.26:8208
+#EXTINF:27,ORF SPORT +
+rtp://@239.2.16.78:8208
+#EXTINF:28,Super RTL
+rtp://@239.2.16.23:8208
+#EXTINF:29,KIKA
+rtp://@239.2.16.24:8208
+#EXTINF:30,nickelodeon
+rtp://@239.2.16.25:8208
+#EXTINF:31,Disney Channel
+rtp://@239.2.16.14:8208
+#EXTINF:32,RIC
+rtp://@239.2.16.117:8208
+#EXTINF:34,gotv
+rtp://@239.2.16.36:8208
+#EXTINF:35,CC/VIVA AT
+rtp://@239.2.16.35:8208
+#EXTINF:36,Deluxe Music
+rtp://@239.2.16.108:8208
+#EXTINF:37,N24 Austria
+rtp://@239.2.16.92:8208
+#EXTINF:38,n-tv
+rtp://@239.2.16.52:8208
+#EXTINF:39,CNN international
+rtp://@239.2.16.55:8208
+#EXTINF:40,ZDF_neo
+rtp://@239.2.16.44:8208
+#EXTINF:41,ZDFinfo
+rtp://@239.2.16.43:8208
+#EXTINF:42,Zee.One
+rtp://@239.2.16.40:8208
+#EXTINF:43,phoenix
+rtp://@239.2.16.39:8208
+#EXTINF:45,tagesschau24
+rtp://@239.2.16.41:8208
+#EXTINF:46,one
+rtp://@239.2.16.42:8208
+#EXTINF:47,ARD-alpha
+rtp://@239.2.16.38:8208
+#EXTINF:48,Tele 5
+rtp://@239.2.16.15:8208
+#EXTINF:49,BR
+rtp://@239.2.16.18:8208
+#EXTINF:50,SWR BW
+rtp://@239.2.16.46:8208
+#EXTINF:51,mdr
+rtp://@239.2.16.47:8208
+#EXTINF:52,NDR
+rtp://@239.2.16.48:8208
+#EXTINF:53,WDR
+rtp://@239.2.16.49:8208
+#EXTINF:54,hr
+rtp://@239.2.16.50:8208
+#EXTINF:55,rbb
+rtp://@239.2.16.51:8208
+#EXTINF:56,SR
+rtp://@239.2.16.74:8208
+#EXTINF:57,BBC World News
+rtp://@239.2.16.57:8208
+#EXTINF:58,BBC Entertainment
+rtp://@239.2.16.58:8208
+#EXTINF:59,Euronews
+rtp://@239.2.16.53:8208
+#EXTINF:60,Bloomberg TV
+rtp://@239.2.16.54:8208
+#EXTINF:61,Al Jazeera
+rtp://@239.2.16.56:8208
+#EXTINF:62,TV5 Monde Europe
+rtp://@239.2.16.60:8208
+#EXTINF:63,France24
+rtp://@239.2.16.61:8208
+#EXTINF:64,Russia Today
+rtp://@239.2.16.77:8208
+#EXTINF:65,Channel One Russia
+rtp://@239.2.16.102:8208
+#EXTINF:66,ORF 2-B
+rtp://@239.2.16.65:8208
+#EXTINF:67,ORF 2-K
+rtp://@239.2.16.66:8208
+#EXTINF:68,ORF 2-NÖ
+rtp://@239.2.16.67:8208
+#EXTINF:69,ORF 2-OÖ
+rtp://@239.2.16.68:8208
+#EXTINF:70,ORF 2-S
+rtp://@239.2.16.69:8208
+#EXTINF:71,ORF 2-St
+rtp://@239.2.16.70:8208
+#EXTINF:72,ORF 2-T
+rtp://@239.2.16.71:8208
+#EXTINF:73,ORF 2-V
+rtp://@239.2.16.72:8208
+#EXTINF:74,ORF 2 Europe
+rtp://@239.2.16.116:8208
+#EXTINF:75,Ö3 Visual Radio
+rtp://@239.2.16.73:8208
+#EXTINF:76,fashion TV
+rtp://@239.2.16.79:8208
+#EXTINF:78,TLC
+rtp://@239.2.16.110:8208
+#EXTINF:80,OE24.TV
+rtp://@239.2.16.105:8208
+#EXTINF:84,QVC
+rtp://@239.2.16.31:8208
+#EXTINF:86,HSE24
+rtp://@239.2.16.32:8208
+#EXTINF:91,Media Shop
+rtp://@239.2.16.94:8208
+#EXTINF:92,Melodie TV
+rtp://@239.2.16.37:8208
+#EXTINF:93,Astro TV
+rtp://@239.2.16.93:8208
+#EXTINF:94,Bibel TV
+rtp://@239.2.16.81:8208
+#EXTINF:95,K-TV
+rtp://@239.2.16.82:8208
+#EXTINF:97,Sky Sport News
+rtp://@239.2.16.45:8208
+#EXTINF:98,LAOLA1.tv
+rtp://@239.2.16.99:8208
+#EXTINF:99,Eurosport 1
+rtp://@239.2.16.80:8208
+#EXTINF:100,Arcadia TV
+rtp://@239.2.16.88:8208
+#EXTINF:101,Rai Uno
+rtp://@239.2.16.75:8208
+#EXTINF:102,Rai Due
+rtp://@239.2.16.59:8208
+#EXTINF:103,Rai Tre
+rtp://@239.2.16.76:8208
+#EXTINF:104,Kanal 7 Avrupa
+rtp://@239.2.16.97:8208
+#EXTINF:105,RTS Sat
+rtp://@239.2.16.63:8208
+#EXTINF:107,HRT 1
+rtp://@239.2.16.64:8208
+#EXTINF:108,BN TV
+rtp://@239.2.16.95:8208
+#EXTINF:109,BN Music
+rtp://@239.2.16.115:8208
+#EXTINF:110,CT24
+rtp://@239.2.16.98:8208
+#EXTINF:111,RTL Croatia World
+rtp://@239.2.16.118:8208
+#EXTINF:112,Pro TV Int
+rtp://@239.2.16.100:8208
+#EXTINF:113,TV Silesia
+rtp://@239.2.16.101:8208
+#EXTINF:114,RTR Planeta
+rtp://@239.2.16.103:8208
+#EXTINF:116,TVE Internacional
+rtp://@239.2.16.106:8208
+#EXTINF:117,Record TV
+rtp://@239.2.16.107:8208
+#EXTINF:118,CGTN
+rtp://@239.2.16.104:8208
+#EXTINF:119,TVP Polonia
+rtp://@239.2.16.119:8208
+#EXTINF:120,Okto
+rtp://@239.2.16.34:8208
+#EXTINF:121,Schau TV
+rtp://@239.2.16.83:8208
+#EXTINF:125,LT1
+rtp://@239.2.16.87:8208
+#EXTINF:130,Tirol TV
+rtp://@239.2.16.109:8208
+#EXTINF:133,Mühlviertel TV
+udp://@239.2.16.113:8208
+#EXTINF:134,RT Salzburg
+rtp://@239.0.23.66:8208

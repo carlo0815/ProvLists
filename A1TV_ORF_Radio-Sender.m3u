@@ -1,0 +1,28 @@
+#EXTM3U
+## A1TV_ORF_Radio-Sender, Stand: 2017-04-07
+## VLC, Kodi
+
+#EXTINF:-1 group-title="Österreich" radio=true,Ö1
+udp://@239.0.144.1:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Wien
+udp://@239.0.144.2:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Hitradio Ö3
+udp://@239.0.144.3:8208
+#EXTINF:-1 group-title="Österreich" radio=true,FM4
+udp://@239.0.144.4:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Niederösterreich
+udp://@239.0.144.5:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Burgenland
+udp://@239.0.144.6:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Oberösterreich
+udp://@239.0.144.7:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Salzburg
+udp://@239.0.144.8:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Tirol
+udp://@239.0.144.9:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Vorarlberg
+udp://@239.0.144.10:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Steiermark
+udp://@239.0.144.11:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Kärnten
+udp://@239.0.144.12:8208
